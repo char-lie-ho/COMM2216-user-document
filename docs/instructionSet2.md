@@ -1,4 +1,4 @@
-# Streaming Videos with Friends
+# Start activities with Friends
 
 ## Overview
 
@@ -25,11 +25,11 @@ Select and click a server from the list on the left-hand server list on the Disc
 Select a channel with the microphone icon ![2-2.png](pictures/2-2.png){ width="15" } , click on the name of the channel
 to join a voice chat.
 
-![2-2-1.png](pictures%2F2-2-1.png){ width="300" }
+![2-2-1.png](pictures/2-2-1.png){ width="300" }
 
-### 3. Start Voice or Video Chatting 
+### 3. Start Voice or Video Chatting
 
-Start talking🗣️. 
+Start talking🗣️.
 
 !!! Additional Information
 
@@ -41,60 +41,60 @@ Start talking🗣️.
 
 Click the rocket icon on your server tab or on the main chat screen to initiate an activity.
 
-![4-1.png](pictures%2F4-1.png){ width="600" }
+![4-1.png](pictures/4-1.png){ width="600" }
 
 ### 5. Authorize and Start
 
 Click **'Authorize'** on any pop-up windows that appear, then click **'Got It'**.
 
-![5-1.png](pictures%2F5-1.png){ width="300" }
-![5-2.png](pictures%2F5-2.png){ width="300" }
-!!! note
+![5-1.png](pictures/5-1.png){ width="300" }
+![5-2.png](pictures/5-2.png){ width="300" }
+!!! Optional
 
-    The order of pop-up windows may vary.
+    Have your friends join the Activity.
+    To join, they need to be in the same Voice Channel as you and join the Activity you started.
+    Each person joining the game will need to provide authorization if they’ve never played the chosen Activity before.
 
-## Stream video together
+## Stream video
 
 ### 6. Select YouTube
 
-Choose the YouTube logo from the list of available activities and wait for it to load.
-
+Click YouTube from the list of available activities and wait for it to load.
 
 ### 7. Add Video to Playlist
 
 Select a video to watch with your friends and click to add it to the playlist.
 
-Graphics Needed: YouTube screen.
+!!! note
 
-Additional Information: The listed videos may vary. Selected videos will be added to a playlist.
+    Selected videos will automatically play upon selection, and multiple videos can be added to a playlist.
 
 ### 8. Expand Video
 
-Move the cursor to the video window and click on 'Expand Video' to enlarge the window. Enjoy watching the video
-together!
-
-Navigate Video Selection: To go back or select more videos, click the '>' on the left side of the video screen.
+Hover your cursor over the video window and click on 'Expand Video' to enlarge the window for better viewing.
+Enjoy watching the video together with your friends!
 
 ### 9. Leave Activity
 
-Click the red door icon to exit the activity or start another.
+Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } to exit the activity when you are done watching
+videos or wish to start another activity,
+You'll return to the voice chat interface.
 
-Graphics Needed: Leaving icon.
+### 10. Leave Voice Channel
 
-### 10. Leave Voice Channel:
+Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
 
-Click the red disconnect icon to leave the voice channel.
-Graphics Needed: Leaving icon.
+![10-2.png](pictures/10-2.png){ width="600" }
 
 ## Conclusion
 
-Congratulations! You've successfully learned how to host group voice and video chats on Discord by starting an activity
+Congratulations! You have successfully learned how to host group voice and video chats on Discord by starting an
+activity
 to watch YouTube videos together.
 With the knowledge gained from this guide, you can now enjoy collaborative activities with your friends while using
-Discord's features effectively.
-Keep exploring and making the most out of your Discord experience!
+Discord's features.
 
-!!! success
+!!! Success
 
-    By following these steps, you should have a fully functional server with your first members joining.
-    Congratulations on creating your private digital space!
+    You have mastered streaming videos with friends on Discord, 
+    enhancing your group's online hangouts and creating memorable experiences together.

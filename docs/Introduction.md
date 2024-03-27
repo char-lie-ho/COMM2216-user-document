@@ -27,12 +27,12 @@ Before proceeding, ensure you have the following:
 
 ## Procedures Overview
 
-1. Setting up Your First Server: Learn how to create and customize your own Discord server.
+1. Add Friends To Your Server: Learn how to create and customize your own Discord server.
 
-2. Streaming Videos with Friends: Discover how to watch videos together with your friends using Discord's streaming
-   feature.
+2. Start activities with Friends: Discover how to watch videos together and play games with your friends
+   using Discord's streaming feature.
 
-3. Making Customized Stickers and Emojis:
+3. Make Customized Stickers and Emojis:
    Explore how to personalize your Discord experience by creating and using custom stickers and emojis.
 
 Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me)
