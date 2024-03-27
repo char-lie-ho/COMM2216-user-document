@@ -69,9 +69,11 @@ Choose to send direct invites or use a link. For multiple people invitation, a l
 
 ![img_8.png](pictures/img_8.png)
 
-!!!success 
-By following these steps, you should have a fully functional server with your first members joining. 
-Congratulations on creating your private digital space!
+!!! success
+
+    By following these steps, you should have a fully functional server with your first members joining.
+    Congratulations on creating your private digital space!
+
 
 ## Conclusion  
 In this section, you learned how to:
