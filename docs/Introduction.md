@@ -7,13 +7,17 @@ Whether you're here to collaborate on projects, connect with classmates, complai
 simply unwind after a long day of studying,
 Discord provides the platform for communication and collaboration.
 
-This user document is designed to help you navigate your way through Discord,
-from setting up your first server, streaming videos with friends, and making customized stickers and emojis.
+This user document is designed to help you navigate your way through the web version of Discord,
+based on the current version as of March 5, 2024.
+From setting up your first server, streaming videos with friends, and making customized stickers and emojis.
 By the end of this guide, you'll be equipped with the knowledge to seamlessly integrate Discord into your student life.
 
 Let's dive in and explore the exciting world of Discord together!
 
 ## Intended Users
+
+This guide is intended for students at BCIT who are new to Discord
+and wish to learn how to utilize its features for academic and social purposes.
 
 ## Prerequisite
 
@@ -31,7 +35,7 @@ Before proceeding, ensure you have the following:
 3. Making Customized Stickers and Emojis:
    Explore how to personalize your Discord experience by creating and using custom stickers and emojis.
 
-[Click here to go to Discord](https://discord.com/channels/@me)
+Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me)
 
 
 
