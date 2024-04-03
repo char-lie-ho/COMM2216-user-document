@@ -11,20 +11,20 @@ To begin with, you need to decide on the server's template and purpose, then cus
 Select a pre-defined Discord template or create a custom server. Discord provide templates for various needs 
 such as Gaming, School Club, or Study Group.
 
-![img.png](pictures/img.png)
+![img.png](pictures/img.png){ width="300" }
 
 
 ### 2. Define Server Purpose 
 
 Determine if the server is for a small circle of friends or a larger community. Skip this step if you are not sure for now.
 
-![img_1.png](pictures/img_1.png)
+![img_1.png](pictures/img_1.png){ width="300" }
 
 ### 3. Customize and Create Server 
 
 Name your server and upload a representative photo. Finalize by clicking “Create”.
 
-![img_2.png](pictures/img_2.png)
+![img_2.png](pictures/img_2.png){ width="300" }
 
 ## Create channels: voice and text
 
@@ -34,18 +34,18 @@ After creating your own server, you need to build channels based on specific nee
 
 Click the dropdown arrow next to your Server name
 
-![img_5.png](pictures/img_5.png)
+![img_5.png](pictures/img_5.png){ width="300" }
 
 In the dropdown menu, click on ![addCircle.png](pictures%2FaddCircle.png){ width = '30'} to create channel
 
-![img_4.png](pictures/img_4.png)
+![img_4.png](pictures/img_4.png){ width="300" }
 
 ### 5. Customize and Create Channel
 
 Decide whether your channel is text or voice channel. Name you channel and set whether it is private. Click “Create 
 Channel ” to create the new channel
 
-![img_3.png](pictures/img_3.png)
+![img_3.png](pictures/img_3.png){ width="300" }
 
 ## Delete channels
 
@@ -62,7 +62,7 @@ to access the channel settings.
 
 In the channel settings, find the bin icon ![dustbin.png](pictures%2Fdustbin.png){widith = "30"}and click on it.
 
-![deleteChannel.png](pictures%2FdeleteChannel.png){ width="700" }
+![deleteChannel.png](pictures%2FdeleteChannel.png){ width="600" }
 
 ### 8. Confirm
 
@@ -81,13 +81,13 @@ After setting up, it's time to grow your community by inviting others:
 ### 9. Navigate to Invite Section
 Click the dropdown button next to the server name. In the drop-down menu, click the human icon ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} to invite people.
 
-![img_7.png](pictures/img_7.png)
+![img_7.png](pictures/img_7.png){ width="300" }
 
 ### 10. Select and Send Invites
 
 Choose to send direct invites or use a link. For multiple people invitation, a link is most efficient.
 
-![img_8.png](pictures/img_8.png)
+![img_8.png](pictures/img_8.png){ width="300" }
 
 !!! success
 
