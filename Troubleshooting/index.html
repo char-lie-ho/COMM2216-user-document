@@ -397,17 +397,6 @@
         
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Troubleshooting
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -417,115 +406,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#add-friends-to-your-server" class="md-nav__link">
-    <span class="md-ellipsis">
-      Add Friends To Your Server
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Add Friends To Your Server">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unable-to-add-channels" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unable to Add Channels
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#invite-links-not-working" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invite Links Not Working
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#start-activities-with-friends" class="md-nav__link">
-    <span class="md-ellipsis">
-      Start activities with Friends
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Start activities with Friends">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unable-to-start-an-activity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unable to Start an Activity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cant-see-or-join-the-activity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't See or Join the Activity
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#make-customized-stickers-and-emojis" class="md-nav__link">
-    <span class="md-ellipsis">
-      Make Customized Stickers and Emojis
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Make Customized Stickers and Emojis">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unable-to-upload-emoji-or-sticker" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unable to Upload Emoji or Sticker
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
       
     </li>
   
@@ -567,31 +447,42 @@
 
 
 <h1 id="troubleshooting">Troubleshooting</h1>
-<h2 id="add-friends-to-your-server">Add Friends To Your Server</h2>
-<h3 id="unable-to-add-channels">Unable to Add Channels</h3>
-<p>Solution:</p>
-<p>• Make sure you have permissions to create channels. If you're the server owner, check your role
-settings. Try refreshing the page if the problem persists.</p>
-<h3 id="invite-links-not-working">Invite Links Not Working</h3>
-<p>Solution:</p>
-<p>• Create a new invite link and double-check the server settings for any invite restrictions. If using a custom link,
-make sure it's formatted correctly.</p>
-<h2 id="start-activities-with-friends">Start activities with Friends</h2>
-<h3 id="unable-to-start-an-activity">Unable to Start an Activity</h3>
-<p>Solution:</p>
-<p>• Check if you have the right permissions within the server to start activities. Server owners or admins can adjust
-these settings.</p>
-<p>• Sometimes, changing the server's region can fix the problem.</p>
-<h3 id="cant-see-or-join-the-activity">Can't See or Join the Activity</h3>
-<p>Solution:</p>
-<p>• Make sure you're in the same voice channel where the activity started.</p>
-<p>• Check if the activity has a participant limit. Ensure it hasn't been reached.</p>
-<h2 id="make-customized-stickers-and-emojis">Make Customized Stickers and Emojis</h2>
-<h3 id="unable-to-upload-emoji-or-sticker">Unable to Upload Emoji or Sticker</h3>
-<p>Solution:</p>
-<p>• Check the file size and format. Emojis should be under 256KB and in PNG, JPG, or GIF format. Stickers should be in PNG
-format and under 500KB.</p>
-<p>• Make sure the "Manage Emojis" and "Manage Stickers" permissions are turned on for the roles that need them.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Symptoms</strong></th>
+<th><strong>Probable Cause</strong></th>
+<th><strong>Solution</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Unable to Add Channels</strong></td>
+<td>Lack of permissions to create channels.</td>
+<td>Ensure you have the necessary permissions. Server owners should check role settings. Refreshing the page might help.</td>
+</tr>
+<tr>
+<td><strong>Invite Links Not Working</strong></td>
+<td>Restrictions in server settings or incorrectly formatted custom links.</td>
+<td>Create a new invite link and verify server settings for any restrictions. Ensure custom links are correctly formatted.</td>
+</tr>
+<tr>
+<td><strong>Unable to Start an Activity</strong></td>
+<td>Insufficient permissions to initiate activities within the server.</td>
+<td>Verify you have the appropriate permissions. Adjustments can be made by server owners or admins. Consider changing the server's region if problems persist.</td>
+</tr>
+<tr>
+<td><strong>Can't See or Join the Activity</strong></td>
+<td>Not in the same voice channel or activity has reached its participant limit.</td>
+<td>Join the voice channel where the activity was initiated. Check if the activity’s participant limit has been reached.</td>
+</tr>
+<tr>
+<td><strong>Unable to Upload Emoji or Sticker</strong></td>
+<td>Incorrect file size or format, or lacking necessary permissions.</td>
+<td>Ensure emojis are under 256KB and in PNG, JPG, or GIF format; stickers should be in PNG format and under 500KB. Check that "Manage Emojis" and "Manage Stickers" permissions are enabled.</td>
+</tr>
+</tbody>
+</table>
 
 
 
