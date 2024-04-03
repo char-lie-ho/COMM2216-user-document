@@ -39,10 +39,21 @@ Now, let's get started by creating your Discord.🚀 [Click here to go to Discor
 
 ## Conventions
 
+When referring to buttons on the page, we will use the format **"Button"** to indicate the appearance of buttons.
 
+## Notes and Messages
 
-## 
-Throughout the documentation, we will use message blocks to alert you to relevant information. Each possible message
-block, from most important to least important:
+In this documentation, we'll use message blocks to show you important information.
+These blocks will help you notice warnings and notes easily.
 
-""
+!!! Warning
+
+    Alerts reader to a potential risk of a specific action.
+
+!!! Note
+
+    Provides additional information or tips.
+
+!!! Success
+
+    Highlights the outcome after completing the instructions.

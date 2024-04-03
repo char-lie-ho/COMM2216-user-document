@@ -23,7 +23,7 @@ friends on Discord.
 
 ![2-2-1.png](pictures/2-2-1.png){ width="300" }
 
-3. Start talking and adjust your microphone and camera settings if needed. 🗣️
+3. Start talking and adjust your microphone and camera settings if needed. 
 
 !!! Note
 
@@ -35,7 +35,7 @@ friends on Discord.
 
 ![4-1.png](pictures/4-1.png){ width="600" }
 
-2. Allow any on any pop-up windows if prompted by clicking **'Authorize'**, then **'Got It'**.
+2. Allow any on any pop-up windows if prompted by clicking **"Authorize"**, then **"Got It"**.
 
 ![5-1.png](pictures/5-1.png){ width="300" }
 ![5-2.png](pictures/5-2.png){ width="300" }
@@ -43,11 +43,11 @@ friends on Discord.
 
 !!! Note
 
-    You right-click on the channel, and select "Invite People" to invite friends to join.
+    You can right-click on the channel, and select "Invite People" to invite friends to join.
 
 ## Stream Video
 
-1. Select 'YouTube' from the activity list and wait for it to load.
+1. Select **"YouTube"** from the activity list and wait for it to load.
 
 
 2. Select a video to watch with your friends and click to add it to the playlist.
@@ -56,14 +56,15 @@ friends on Discord.
 
     Selected videos will automatically play upon selection, and multiple videos can be added to a playlist.
 
-3. Hover over the cursor on video window and click 'Expand Video' for better viewing.
-   Enjoy watching the video together with your friends!
+3. Hover over the cursor on video window and click **"Expand Video"** for better viewing.
+    
+    Enjoy watching the video together with your friends!
 
 
 4. Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start
-   another.
-   videos or wish to start another activity,
-   You'll return to the voice chat interface.
+   another videos or wish to start another activity. 
+    
+    You'll return to the voice chat interface.
 
 
 5. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
@@ -73,8 +74,7 @@ friends on Discord.
 ## Conclusion
 
 Congratulations! You have successfully learned how to host group voice and video chats on Discord by starting an
-activity
-to watch YouTube videos together.
+activity to watch YouTube videos together.
 With the knowledge gained from this guide, you can now enjoy collaborative activities with your friends while using
 Discord's features.
 
