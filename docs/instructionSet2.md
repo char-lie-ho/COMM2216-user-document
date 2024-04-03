@@ -1,4 +1,4 @@
-# Start activities with Friends
+# Start Activities With Friends
 
 ## Overview
 
@@ -23,62 +23,50 @@ friends on Discord.
 
 ![2-2-1.png](pictures/2-2-1.png){ width="300" }
 
-### 3. Start Voice or Video Chatting
-
-Start talking and adjust your microphone and camera settings if needed. 🗣️
+3. Start talking and adjust your microphone and camera settings if needed. 🗣️
 
 !!! Note
 
     Toggle your microphone and camera on/off as needed using the microphone and camera icons.
 
-## Start group activity
+## Start Group Activity
 
-### 4. Start an Activity
-
-Begin an activity by clicking the rocket icon on your server tab or main chat screen.
+1. Click the rocket icon on your server tab or main chat screen to begin an activity.
 
 ![4-1.png](pictures/4-1.png){ width="600" }
 
-### 5. Authorize and Start
-
-Allow any on any pop-up windows if prompted by clicking **'Authorize'**, then **'Got It'**.
+2. Allow any on any pop-up windows if prompted by clicking **'Authorize'**, then **'Got It'**.
 
 ![5-1.png](pictures/5-1.png){ width="300" }
 ![5-2.png](pictures/5-2.png){ width="300" }
-!!! Optional
 
-    Have your friends join the Activity.
-    To join, they need to be in the same Voice Channel as you and join the Activity you started.
-    Each person joining the game will need to provide authorization if they’ve never played the chosen Activity before.
 
-## Stream video
+!!! Note
 
-### 6. Select YouTube
+    You right-click on the channel, and select "Invite People" to invite friends to join.
 
-Choose 'YouTube' from the activity list and wait for it to load.
+## Stream Video
 
-### 7. Add Video to Playlist
+1. Select 'YouTube' from the activity list and wait for it to load.
 
-Select a video to watch with your friends and click to add it to the playlist.
 
-!!! note
+2. Select a video to watch with your friends and click to add it to the playlist.
+
+!!! Note
 
     Selected videos will automatically play upon selection, and multiple videos can be added to a playlist.
 
-### 8. Expand Video
+3. Hover over the cursor on video window and click 'Expand Video' for better viewing.
+   Enjoy watching the video together with your friends!
 
-Hover over the video window and click 'Expand Video' for better viewing.
-Enjoy watching the video together with your friends!
 
-### 9. Leave Activity
+4. Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start
+   another.
+   videos or wish to start another activity,
+   You'll return to the voice chat interface.
 
-Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start another.
-videos or wish to start another activity,
-You'll return to the voice chat interface.
 
-### 10. Leave Voice Channel
-
-Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
+5. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
 
 ![10-2.png](pictures/10-2.png){ width="600" }
 

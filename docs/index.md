@@ -29,7 +29,7 @@ Before proceeding, ensure you have the following:
 
 1. Add Friends To Your Server: Learn how to create and customize your own Discord server.
 
-2. Start activities with Friends: Discover how to watch videos together and play games with your friends
+2. Start Activities With Friends: Discover how to watch videos together and play games with your friends
    using Discord's streaming feature.
 
 3. Make Customized Stickers and Emojis:
@@ -37,5 +37,12 @@ Before proceeding, ensure you have the following:
 
 Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me)
 
+## Conventions
 
 
+
+## 
+Throughout the documentation, we will use message blocks to alert you to relevant information. Each possible message
+block, from most important to least important:
+
+""

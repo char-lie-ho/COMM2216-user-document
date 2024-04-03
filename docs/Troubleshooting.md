@@ -1,4 +1,4 @@
-# Troubleshoot
+# Troubleshooting
 
 ## Add Friends To Your Server
 
