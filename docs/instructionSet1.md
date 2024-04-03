@@ -19,7 +19,7 @@ The server can be for a small group of friends or a larger community. Skip this 
 
 ![img_1.png](pictures/img_1.png){ width="300" }
 
-3. Name your server and upload a representative photo. Finalize by clicking “Create”.
+3. Name your server and upload a representative photo. Finalize by clicking **“Create”**.
 
 ![img_2.png](pictures/img_2.png){ width="300" }
 
@@ -44,7 +44,7 @@ Decide if your channel will be for text or voice communication, and give it a na
 
 3. Set Privacy and Create
 
-Specify if the channel is private and click “Create Channel” to finish.
+Specify if the channel is private and click **“Create Channel”** to finish.
 
 ![img_3.png](pictures/img_3.png){ width="300" }
 
