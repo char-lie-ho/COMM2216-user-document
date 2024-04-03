@@ -1,6 +1,6 @@
 # Introduction
 
-### Welcome to Discord!
+### Welcome To Discord!
 
 Welcome to our BCIT student community on Discord!
 Whether you're here to collaborate on projects, connect with classmates, complain about instructors(hopefully not), or
@@ -41,7 +41,7 @@ Now, let's get started by creating your Discord.🚀 [Click here to go to Discor
 
 When referring to buttons on the page, we will use the format **"Button"** to indicate the appearance of buttons.
 
-## Notes and Messages
+## Notes And Messages
 
 In this documentation, we'll use message blocks to show you important information.
 These blocks will help you notice warnings and notes easily.

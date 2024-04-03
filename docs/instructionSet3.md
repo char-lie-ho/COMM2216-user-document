@@ -1,4 +1,4 @@
-# Make Customized Stickers and Emojis
+# Make Customized Stickers And Emojis
 
 ## Overview
 Enhance your server’s user engagement by creating customized stickers and emojis. This section will walk you through 
