@@ -31,17 +31,19 @@ Name your server and upload a representative photo. Finalize by clicking “Crea
 After creating your own server, you need to build channels based on specific needs. 
 
 ### 4. Click to add channel
-- Click the dropdown arrow next to your Server name
+
+Click the dropdown arrow next to your Server name
 
 ![img_5.png](pictures/img_5.png)
 
-- In the dropdown menu, click on "Create Channel"
+In the dropdown menu, click on ![addCircle.png](pictures%2FaddCircle.png){ width = '30'} to create channel
 
 ![img_4.png](pictures/img_4.png)
 
 ### 5. Customize and Create Channel
 
-Decide whether your channel is text or voice channel. Name you channel and set whether it is private. Click “CREATE” to create the new channel
+Decide whether your channel is text or voice channel. Name you channel and set whether it is private. Click “Create 
+Channel ” to create the new channel
 
 ![img_3.png](pictures/img_3.png)
 
@@ -51,20 +53,38 @@ You can also delete unwanted channels.
 
 ### 6. Click the “EDIT” button
 
-![img_6.png](pictures/img_6.png)
+Hover over the channel you want to delete, click the gear icon ![setting.svg](pictures%2Fsetting.svg){ width="30" } 
+to access the channel settings.
+
+![img_6.png](pictures/img_6.png){ width="300" }
+
 ### 7. Choose delete channel
 
-### 8. confirm
+In the channel settings, find the bin icon ![dustbin.png](pictures%2Fdustbin.png){widith = "30"}and click on it.
+
+![deleteChannel.png](pictures%2FdeleteChannel.png){ width="700" }
+
+### 8. Confirm
+
+A confirmation window will appear. Click "Delete Channel" to delete the channel.
+
+![confirmDelete.png](pictures%2FconfirmDelete.png){ width="300" }
+
+!!! warning
+
+    Your channel will be permanently deleted.
 
 ## Inviting People to Your Server
+
 After setting up, it's time to grow your community by inviting others:
 
 ### 9. Navigate to Invite Section
-Click the dropdown button next to the server name. In the drop-down menu, click the "human" icon next to “Invite People”.
+Click the dropdown button next to the server name. In the drop-down menu, click the human icon ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} to invite people.
 
 ![img_7.png](pictures/img_7.png)
 
-### 10. Select and Send Invites 
+### 10. Select and Send Invites
+
 Choose to send direct invites or use a link. For multiple people invitation, a link is most efficient.
 
 ![img_8.png](pictures/img_8.png)
@@ -79,6 +99,6 @@ Choose to send direct invites or use a link. For multiple people invitation, a l
 In this section, you learned how to:
 
 - Create a server tailored to your needs
-- Invite friends or colleagues to join your server
+- Invite friends or classmates to join your server
 
 You've taken the first step towards building your online community. Great work!
