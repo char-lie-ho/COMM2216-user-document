@@ -11,48 +11,55 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 
 ### 1. Open Server Settings
 
-- Next to the Server name, click the downward arrow to expand the dropdown menu.
-- Select "Server Settings" from the menu.
+Next to the Server name, click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to expand the dropdown menu.
+
+Select "Server Settings" ![setting.svg](pictures%2Fsetting.svg){ width="30" } from the menu.
 
 ![serverSetting.png](pictures%2FserverSetting.png)
 
 ### 2. Select Emoji or Stickers
 
-- From the server settings sidebar, click on “Emoji” or “Stickers” depending on what you want to manage.
+From the server settings sidebar, click on “Emoji” or “Stickers” depending on what you want to manage.
 
 ![emojisideBar.png](pictures%2FemojisideBar.png)
 
 ## Manage and Use Emojis and Stickers
 
-Create new or edit existing emojis and stickers:
+You can create new or edit existing emojis and stickers with the following instructions:
 
 ### 3. Add New Emoji
 
-- Click “Upload Emoji”, select your image, and press enter to upload.
+Click “Upload Emoji”, select your image, and press enter to upload.
 
 ![uploadEmoji.png](pictures%2FuploadEmoji.png)
 
 ### 4. Edit Emoji
 
-- To edit, hover over an emoji in the list and double-click to change its name.
+To edit, hover over an emoji in the list and double-click to change its name.
 
 ### 5. Delete Emoji
-- To delete, click the “X” next to the emoji you want to remove.
 
-[PICTURE HERE!!!!!!!]
+To delete, click the red “X” next to the emoji you want to remove.
+
+![deleteEmoji.png](pictures%2FdeleteEmoji.png)
 
 ### 6. Add New Sticker
 
-- Click “Upload Sticker”, choose the file, give your sticker a name and description, then click “Upload”.
+Click “Upload Sticker”, choose the file, give your sticker a name and description, then click “Upload”.
 
 ![stickers.png](pictures%2Fstickers.png)
 
 ### 7. Edit Stickers
 
-- To edit, hover over an emoji in the list and double-click to change its name.
+To edit, hover over a sticker in the list. You will see a pen icon ![edit.png](pictures%2Fedit.png){ width="30" }. Click it to edit the sticker.
+
+![stickEditPen.png](pictures%2FstickEditPen.png)
 
 ### 8. Delete Stickers
-- To delete, click the “X” next to the emoji you want to remove.
+
+To delete, click the “X” next to the sticker you want to remove.
+
+![editStickers.png](pictures%2FeditStickers.png)
 
 ### 9. Send Emoji or Sticker
 
@@ -65,10 +72,12 @@ Create new or edit existing emojis and stickers:
 Allow friends to contribute their own emojis and stickers:
 
 ### 10. Modify Roles in Server 
-- Return to “Server Settings”, select “Roles”, then click on the default permission role.
+
+Return to “Server Settings”, select “Roles”, then click on the default permission role.
+![defaultPermission.png](pictures%2FdefaultPermission.png)
 
 ### 11. Enable Creative Expressions Permissions
-- Search for “Create Expressions”, and enable it by changing the default “x” to a check mark, allowing members to create emojis and stickers.
+Search for “Create Expressions”, and enable it by changing the default “x” to a check mark, allowing members to create emojis and stickers.
 
 [PCTURES HERE!!!!!]
 
