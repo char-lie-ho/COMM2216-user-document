@@ -10,20 +10,16 @@ friends on Discord.
 
 ## Host Group Voice & Video Chat
 
-### 1. Select a Server
-
-Go to Discord's website and pick a server from the list on the left.
+1. Go to Discord's website and pick a server from the list on the left.
 
 ![download.png](pictures/2-1.png){ width="600" }
 
-!!! note
+!!! Note
 
     Your server lists may have different looks.
 
-### 2. Join a Voice Chat
-
-Select a channel with the microphone icon ![2-2.png](pictures/2-2.png){ width="15" } , click on the name of the channel
-to join a voice chat.
+2. Select a channel with the microphone icon ![2-2.png](pictures/2-2.png){ width="15" } , click on the name of the
+   channel to join a voice chat.
 
 ![2-2-1.png](pictures/2-2-1.png){ width="300" }
 
@@ -31,7 +27,7 @@ to join a voice chat.
 
 Start talking and adjust your microphone and camera settings if needed. 🗣️
 
-!!! Additional Information
+!!! Note
 
     Toggle your microphone and camera on/off as needed using the microphone and camera icons.
 

@@ -1,5 +1,14 @@
 site_name: User Document for Discord
 
+nav:
+  - Home: index.md
+  - Add Friends To Your Server: instructionSet1.md
+  - Start Activity: instructionSet2.md
+  - Make Customized Stickers and Emojis: instructionSet3.md
+  - Troubleshooting: Troubleshooting.md
+  - Glossary: Glossary.md
+
+
 theme:
   name: material
   features:
@@ -21,4 +30,4 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
-  - md_in_html
+  - sane_lists
