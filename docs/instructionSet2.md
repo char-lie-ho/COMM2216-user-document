@@ -12,7 +12,7 @@ friends on Discord.
 
 ### 1. Select a Server
 
-Select and click a server from the list on the left-hand server list on the Discord webpage.
+Go to Discord's website and pick a server from the list on the left.
 
 ![download.png](pictures/2-1.png){ width="600" }
 
@@ -29,7 +29,7 @@ to join a voice chat.
 
 ### 3. Start Voice or Video Chatting
 
-Start talking🗣️.
+Start talking and adjust your microphone and camera settings if needed. 🗣️
 
 !!! Additional Information
 
@@ -39,13 +39,13 @@ Start talking🗣️.
 
 ### 4. Start an Activity
 
-Click the rocket icon on your server tab or on the main chat screen to initiate an activity.
+Begin an activity by clicking the rocket icon on your server tab or main chat screen.
 
 ![4-1.png](pictures/4-1.png){ width="600" }
 
 ### 5. Authorize and Start
 
-Click **'Authorize'** on any pop-up windows that appear, then click **'Got It'**.
+Allow any on any pop-up windows if prompted by clicking **'Authorize'**, then **'Got It'**.
 
 ![5-1.png](pictures/5-1.png){ width="300" }
 ![5-2.png](pictures/5-2.png){ width="300" }
@@ -59,7 +59,7 @@ Click **'Authorize'** on any pop-up windows that appear, then click **'Got It'**
 
 ### 6. Select YouTube
 
-Click YouTube from the list of available activities and wait for it to load.
+Choose 'YouTube' from the activity list and wait for it to load.
 
 ### 7. Add Video to Playlist
 
@@ -71,12 +71,12 @@ Select a video to watch with your friends and click to add it to the playlist.
 
 ### 8. Expand Video
 
-Hover your cursor over the video window and click on 'Expand Video' to enlarge the window for better viewing.
+Hover over the video window and click 'Expand Video' for better viewing.
 Enjoy watching the video together with your friends!
 
 ### 9. Leave Activity
 
-Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } to exit the activity when you are done watching
+Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start another.
 videos or wish to start another activity,
 You'll return to the voice chat interface.
 
