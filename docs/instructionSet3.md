@@ -14,7 +14,7 @@ Next to the Server name, click the downward arrow ![downward.png](pictures%2Fdow
 
 Select "Server Settings" ![setting.svg](pictures%2Fsetting.svg){ width="30" } from the menu.
 
-![serverSetting.png](pictures%2FserverSetting.png){ width="300" }
+![serverSetting.png](pictures%2FserverSetting.png){ height="300" }
 
 2. From the server settings sidebar, click on **“Emoji”** or **“Stickers”** depending on what you want to manage.
 
@@ -44,7 +44,7 @@ To delete, click the red **“X”** next to the emoji you want to remove.
 
 Click **“Upload Sticker”**, choose the file, give your sticker a name and description, then click **“Upload”**.
 
-![stickers.png](pictures%2Fstickers.png){ width="600" }
+![stickers.png](pictures%2Fstickers.png){ width="400" }
 
 5. Edit Stickers
 

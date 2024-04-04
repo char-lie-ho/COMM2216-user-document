@@ -5,7 +5,7 @@
 Welcome to our BCIT student community on Discord!
 Whether you're here to collaborate on projects, connect with classmates, complain about instructors(hopefully not), or
 simply unwind after a long day of studying,
-Discord provides the platform for communication and collaboration.
+Discord provides a platform for communication and collaboration.
 
 This user document is designed to help you navigate your way through the web version of Discord,
 based on the current version as of March 5, 2024.
@@ -23,7 +23,7 @@ and wish to learn how to utilize its features for academic and social purposes.
 
 Before proceeding, ensure you have the following:
 
-- a Discord Account, if not [click here to go to create a Discord Account](https://discord.com/register)
+- A Discord Account, if not [click here to go to create a Discord Account](https://discord.com/register)
 
 ## Procedures Overview
 
@@ -37,7 +37,7 @@ Before proceeding, ensure you have the following:
 
 Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me)
 
-## Conventions
+## Typographical Conventions
 
 When referring to buttons on the page, we will use the format **"Button"** to indicate the appearance of buttons.
 
@@ -48,7 +48,7 @@ These blocks will help you notice warnings and notes easily.
 
 !!! Warning
 
-    Alerts reader to a potential risk of a specific action.
+    Alerts reader to the potential risk of a specific action.
 
 !!! Note
 
