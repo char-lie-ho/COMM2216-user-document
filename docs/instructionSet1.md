@@ -72,20 +72,22 @@ You can also delete unwanted channels.
 
 After setting up, it's time to grow your community by inviting others:
 
-1. Click the dropdown arrow next to your server name to open the dropdown menu. In the dropdown menu, click **"Invite
-   People ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} "**   to invite people.
+1. Click the dropdown arrow next to your server name to open the dropdown menu. In the menu, click **"Invite
+   People ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} "** to invite people.
 
 ![img_7.png](pictures/img_7.png){ width="300" }
 
-2. Select how you want to send invites: either directly or via a link.
+2. Choose your preferred method to send invites: either click the green **"Invite"** button or click **"Copy"** to copy the invitation link.
 
-    For inviting multiple people, using a link is generally the more efficient option.
+!!! Note
+
+    Using a link is typically more efficient when inviting multiple people.
 
 ![img_8.png](pictures/img_8.png){ width="300" }
 
 !!! success
 
-    By following the steps above, you should have a fully functional server with your first members joining.
+    By following the steps above, you have created a fully functional server with your first members joining.
     Congratulations on creating your private digital space!
 
 ## Conclusion
