@@ -21,8 +21,8 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 ## Add Emojis
 
 Before making custom emojis for your Discord server, remember these essentials:
-image dimension is 128×128 pixels, file size doesn't surpass 256KB,
-and it's in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
+image dimension is 128×128 pixels, file size does not exceed 256KB,
+and it is in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
 
 1. Navigate to **"Emoji"** tab, click **"Upload Emoji"**.
 

@@ -63,7 +63,7 @@ friends on Discord.
 4. Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start
    another videos or wish to start another activity. 
     
-    You'll return to the voice chat interface.
+    You will return to the voice chat interface.
 
 
 5. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.

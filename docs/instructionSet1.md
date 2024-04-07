@@ -1,4 +1,4 @@
-# Add Friends to Your Server
+# Set Up Your Server
 
 ## Overview
 

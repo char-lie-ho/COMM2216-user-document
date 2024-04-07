@@ -2,7 +2,7 @@ site_name: User Document for Discord
 
 nav:
   - Home: index.md
-  - Add Friends to Your Server: instructionSet1.md
+  - Set Up Your Server: instructionSet1.md
   - Start Activities with Friends: instructionSet2.md
   - Make Customized Stickers and Emojis: instructionSet3.md
   - Troubleshooting: Troubleshooting.md

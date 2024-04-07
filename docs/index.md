@@ -27,7 +27,7 @@ Before proceeding, ensure you have the following:
 
 ## Procedures Overview
 
-1. Add Friends to Your Server: Learn how to create and customize your own Discord server.
+1. Set Up Your Server: Learn how to create and customize your own Discord server.
 
 2. Start Activities with Friends: Discover how to watch videos together and play games with your friends
    using Discord's streaming feature.
