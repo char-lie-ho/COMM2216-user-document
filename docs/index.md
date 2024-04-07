@@ -39,7 +39,9 @@ Now, let's get started by creating your Discord.🚀 [Click here to go to Discor
 
 ## Typographical Conventions
 
-When referring to buttons on the page, we will use the format **"Button"** to indicate the appearance of buttons.
+* For indicating buttons on the page, we will use the format **"Button"**.
+
+* For indicating a file format, we will use the format _file_.
 
 ## Notes And Messages
 

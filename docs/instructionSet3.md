@@ -20,17 +20,15 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 
 ## Add Emojis
 
-You can create new or edit existing emojis and stickers with the following instructions.
+Before crafting custom emojis for your Discord server, remember these essentials:
+ensure dimensions are 128×128 pixels, file size doesn't surpass 256KB,
+and it's in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
 
 1. Navigate to **"Emoji"** tab, click **"Upload Emoji"**.
 
 ![uploadEmoji.png](pictures%2FuploadEmoji.png){ width="600" }
 
 2. Select an image from your computer to upload.
-
-!!! Note
-
-    The file must be in JPEG, PNG, or GIF format, and its size must not exceed 256KB. Ideally, the dimensions should be 128x128 pixels.
 
 3. Hover over an emoji in the list and click on the textbox to edit its name.
 
@@ -39,7 +37,8 @@ Picker.
 
 ## Add Stickers
 
-By default, all servers are provided with 5 free custom sticker slots.
+When making Discord stickers, keep in mind: use _APNG_ or _GIF_ for animated ones; use _PNG_ for
+static ones, the max file size is 512KB, with dimensions of 320px x 320px. Let's create!
 
 1. Navigate to **"Stickers"** tab and click **"Upload Sticker"**
 
