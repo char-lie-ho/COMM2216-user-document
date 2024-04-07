@@ -90,7 +90,7 @@ After creating your own server, you need to create channels based on specific ne
 [//]: # ()
 [//]: # (![confirmDelete.png]&#40;pictures%2FconfirmDelete.png&#41;{ width="300" })
 
-## Inviting People to Your Server
+## Invite People to Your Server
 
 After setup, you can expand your community by inviting your classmates and friends to join.
 

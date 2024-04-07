@@ -1,4 +1,4 @@
-# Make Customized Emojis and Stickers
+# Create Customized Emojis and Stickers
 
 ## Overview
 
@@ -86,7 +86,7 @@ You can also allow friends to contribute their emojis and stickers with these st
 
 ## Conclusion
 
-By following this guide, you have now learned how to:
+By following this guide, you have learned how to:
 
 - Add and manage customized Server emojis and stickers.
 - Enable friends to make their own emojis and stickers.
