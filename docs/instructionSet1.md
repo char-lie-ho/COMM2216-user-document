@@ -32,7 +32,7 @@ templates.
 
 ![img_2.png](pictures/img_2.png){ width="300" }
 
-## Create channels: voice and text
+## Create Channels: Voice or Text
 
 After creating your own server, you need to create channels based on specific needs.
 
