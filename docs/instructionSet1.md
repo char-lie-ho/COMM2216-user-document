@@ -28,7 +28,7 @@ templates.
 
 ![img_1.png](pictures/img_1.png){ width="300" }
 
-3. Name your server and upload a characteristic photo. Complete the process by clicking **“Create”**.
+4. Name your server and upload a characteristic photo. Complete the process by clicking **“Create”**.
 
 ![img_2.png](pictures/img_2.png){ width="300" }
 
@@ -50,31 +50,45 @@ After creating your own server, you need to create channels based on specific ne
 
 4. Select the privacy settings for the channel and then click  **"Create Channel"** to finish.
 
-## Delete channels
+[//]: # (## Delete channels)
 
-Sometimes, you might need to tidy up your server space by removing channels that are no longer needed.
-For instance, if you have created a temporary channel for a group project,
-you can delete it once the project is completed to keep your server organized.
+[//]: # ()
+[//]: # (Sometimes, you might need to tidy up your server space by removing channels that are no longer needed.)
 
-1. Hover over the channel you wish to delete and click on the gear icon
-   ![setting.svg](pictures%2Fsetting.svg){ width=" 20" }.
+[//]: # (For instance, if you have created a temporary channel for a group project,)
 
-![img_6.png](pictures/img_6.png){ width="300" }
+[//]: # (you can delete it once the project is completed to keep your server organized.)
 
-You will be redirected to channel settings.
+[//]: # ()
+[//]: # (1. Hover over the channel you wish to delete and click on the gear icon)
 
-2. Click **"Delete Channel ![dustbin.png](pictures%2Fdustbin.png){widith = "15"}"** on the left column.
+[//]: # (   ![setting.svg]&#40;pictures%2Fsetting.svg&#41;{ width=" 20" }.)
 
-![deleteChannel.png](pictures%2FdeleteChannel.png){ width="600" }
+[//]: # ()
+[//]: # (![img_6.png]&#40;pictures/img_6.png&#41;{ width="300" })
 
-!!! warning
+[//]: # ()
+[//]: # (You will be redirected to channel settings.)
 
-    Your channel will be permanently deleted. Proceed with caution.
+[//]: # ()
+[//]: # (2. Click **"Delete Channel ![dustbin.png]&#40;pictures%2Fdustbin.png&#41;{widith = "15"}"** on the left column.)
 
-3. Confirm to delete by clicking "Delete Channel" when the warning window appears, as your channel will be
-   permanently deleted.
+[//]: # ()
+[//]: # (![deleteChannel.png]&#40;pictures%2FdeleteChannel.png&#41;{ width="600" })
 
-![confirmDelete.png](pictures%2FconfirmDelete.png){ width="300" }
+[//]: # ()
+[//]: # (!!! warning)
+
+[//]: # ()
+[//]: # (    Your channel will be permanently deleted. Proceed with caution.)
+
+[//]: # ()
+[//]: # (3. Confirm to delete by clicking "Delete Channel" when the warning window appears, as your channel will be)
+
+[//]: # (   permanently deleted.)
+
+[//]: # ()
+[//]: # (![confirmDelete.png]&#40;pictures%2FconfirmDelete.png&#41;{ width="300" })
 
 ## Inviting People to Your Server
 

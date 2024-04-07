@@ -35,7 +35,7 @@ Before proceeding, ensure you have the following:
 3. Make Customized Stickers and Emojis:
    Explore how to personalize your Discord experience by creating and using custom stickers and emojis.
 
-Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me)
+Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me){:target="_blank"}
 
 ## Typographical Conventions
 
@@ -43,7 +43,9 @@ Now, let's get started by creating your Discord.🚀 [Click here to go to Discor
 
 * For indicating a file format, we will use the format _file_.
 
-## Notes And Messages
+* In images, red boxes denote areas to click, while arrows indicate selections to make.
+
+## Notes and Messages
 
 In this documentation, we'll use message blocks to show you important information.
 These blocks will help you notice warnings and notes easily.
