@@ -1,68 +1,84 @@
-# Make Customized Stickers And Emojis
+# Make Customized Emojis and Stickers
 
 ## Overview
 
-Enhance your server’s user engagement by creating customized stickers and emojis. This section will walk you through
+Enhance your server’s user engagement by creating customized emojis and stickers. This section will walk you through
 creating these elements and enabling others in your server to contribute as well.
 
 ## Access Emoji and Sticker Management Panel
 
-Initially, navigate to the emoji and sticker management panel within Server Setting.
+Initially, navigate to the emoji and sticker management panel within Server Settings.
 
-1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to expand the dropdown menu on the
-   left and
+1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to expand the dropdown menu and
    select **"Server Settings"** ![setting.svg](pictures%2Fsetting.svg){ width="30" } from the menu.
 
-![serverSetting.png](pictures%2FserverSetting.png){ width="600" }
+![serverSettings.gif](pictures%2FserverSettings.gif){ width="300" }
 
-2. Select **“Emoji”** or **“Stickers”** depending on what you want to manage on the left sidebar.
+2. Select **"Emoji"** or **"Stickers"** tab depending on what you want to manage on the left sidebar.
 
 ![emojisideBar.png](pictures%2FemojisideBar.png){ width="600" }
 
-## Manage and Use Emojis and Stickers
+## Add Emojis
 
 You can create new or edit existing emojis and stickers with the following instructions.
 
-1. Click **“Upload Emoji”**, select your image, and press enter to upload.
+1. Navigate to **"Emoji"** tab, click **"Upload Emoji"**.
 
 ![uploadEmoji.png](pictures%2FuploadEmoji.png){ width="600" }
 
-2. Hover over an emoji in the list and double-click to edit its name.
+2. Select an image from your computer to upload.
 
-3. Click the red **“X”** next to the emoji to remove an unwanted emoji.
+!!! Note
 
-![deleteEmoji.png](pictures%2FdeleteEmoji.png){ width="600" }
+    The file must be in JPEG, PNG, or GIF format, and its size must not exceed 256KB. Ideally, the dimensions should be 128x128 pixels.
 
-4. Select a file using the **"Browse"** button, name your sticker, and then click **"Upload"**.
+3. Hover over an emoji in the list and click on the textbox to edit its name.
+
+Customizing the emoji name allows you and your friends to easily type it out instead of selecting it from the Emoji
+Picker.
+
+## Add Stickers
+
+By default, all servers are provided with 5 free custom sticker slots.
+
+1. Navigate to **"Stickers"** tab and click **"Upload Sticker"**
+
+2. Choose a file from your computer by clicking the **"Browse"** button.
+
+3. Name your sticker and choose a related emoji, then click **"Upload"**.
 
 ![stickers.png](pictures%2Fstickers.png){ width="400" }
 
-5. Hover over a sticker in the list anc click the pen icon ![edit.png](pictures%2Fedit.png){ width="30" } to edit the
-   sticker.
+## Use Emojis and Stickers
 
-![stickEditPen.png](pictures%2FstickEditPen.png){ width="200" }
+Using emojis or stickers in your message is easy! Just hover your mouse over the greyed-out Emoji Picker button
+or the Sticker Picker button to the right of your message input area.
 
-6. Click the **“X”** next to the sticker to remove an unwanted sticker.
+1. Click the emoji or sticker icon in the message input area.
 
-![editStickers.png](pictures%2FeditStickers.png){ width="200" }
+![textInput.png](pictures%2FtextInput.png){ width="500" }
 
-7. Click the emoji or sticker icon in the message input area,
-   choose from your available emojis or stickers, and then click to send.
+2. Choose from your available emojis or stickers and hit enter to send.
 
 ![useStickers.png](pictures%2FuseStickers.png){ width="500" }
 
+!!! Note
+
+    To place multiple emojis, simply hold down the Shift key and left click on each emoji.
+
 ## Enable Collaborative Creation
 
-You can also allow friends to contribute their own emojis and stickers with these steps.
+You can also allow friends to contribute their emojis and stickers with these steps.
 
-1. Go to server settings panel, select **“Roles”**, then click on the default permission role.
+1. Go to Server Settings panel, select **"Roles"** tab, then click on the **"Default Permissions"**.
 
 ![defaultPermission.png](pictures%2FdefaultPermission.png){ width="600" }
 
-2. Search for “Create Expressions”, and enable it by changing the default “x” to a check mark, allowing members to
-   create emojis and stickers.
+2. Locate "Create Expressions" and activate it by switching the red cross mark "**x**" to green check mark"✔".
 
 ![createExpression.png](pictures%2FcreateExpression.png){ width="600" }
+
+3. Click **"Save Changes"** before exiting to save your updates.
 
 !!! success
 
