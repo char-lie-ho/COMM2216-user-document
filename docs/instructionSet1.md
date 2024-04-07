@@ -12,13 +12,13 @@ preferences. Here’s how you’ll set everything up:
 
 1. Select a pre-defined Discord template or create a custom server.
 
-   Discord provides templates for various needs such as Gaming, School Club, or Study Group.
+     Discord provides templates for various needs such as Gaming, School Club, or Study Group.
 
 ![img.png](pictures/img.png){ width="300" }
 
 2. Choose the purpose of the server.
 
-   The server can be for a small group of friends or a larger community. Skip this step if you are not sure for now.
+    The server can be for a small group of friends or a larger community. Skip this step if you are not sure for now.
 
 ![img_1.png](pictures/img_1.png){ width="300" }
 
