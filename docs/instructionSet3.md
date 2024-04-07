@@ -59,7 +59,7 @@ or the Sticker Picker button to the right of your message input area.
 
 2. Choose from your available emojis or stickers and hit enter to send.
 
-![useStickers.png](pictures%2FuseStickers.png){ width="500" }
+![useStickers.png](pictures%2FuseStickers.png){ width="300" }
 
 !!! Note
 
