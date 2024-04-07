@@ -1,61 +1,69 @@
-# Add Friends To Your Server
+# Add Friends to Your Server
 
 ## Overview
 
-This section will guide you through the process of creating your server and inviting friends or classmates to join.
-By building your server, you can have a private space for discussions, collaborations, or social gatherings online.
+You can learn how to create your first server and invite friends or classmates to join in this section.
+Establish a private space for discussions, collaborations, or social gatherings by setting up your server.
 
 ## Create Your New Server
 
 To begin with, you need to decide on the server's template and purpose, then customize it according to your purpose and
 preferences. Here’s how you’ll set everything up:
 
-1. Select a pre-defined Discord template or create a custom server.
+1. Click the green **"+"** button on the left column.
 
-     Discord provides templates for various needs such as Gaming, School Club, or Study Group.
+![img.png](pictures/createServer.png){ width="600" }
+
+A new window will appear and give you several options, you can create your own template or use the pre-defined
+templates.
+
+2. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
+   Group"**.
 
 ![img.png](pictures/img.png){ width="300" }
 
-2. Choose the purpose of the server.
+3. Choose the purpose of the server.
 
     The server can be for a small group of friends or a larger community. Skip this step if you are not sure for now.
 
 ![img_1.png](pictures/img_1.png){ width="300" }
 
-3. Name your server and upload a representative photo. Finalize by clicking **“Create”**.
+3. Name your server and upload a characteristic photo. Complete the process by clicking **“Create”**.
 
 ![img_2.png](pictures/img_2.png){ width="300" }
 
 ## Create channels: voice and text
 
-After creating your own server, you need to build channels based on specific needs.
+After creating your own server, you need to create channels based on specific needs.
 
-1. Click the dropdown arrow next to your server name to open the dropdown menu.
+1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } next to your server name to open the
+   dropdown menu.
 
-![img_5.png](pictures/img_5.png){ width="300" }
+2. Click **"Create Channel ![addCircle.png](pictures%2FaddCircle.png){ width ="15" } "**  in the dropdown menu to create
+   channel.
 
-2. Click ![addCircle.png](pictures%2FaddCircle.png){ width = '30'} in the dropdown menu to create channel.
+![createChannel.gif](pictures%2FcreateChannel.gif){ width="300" }
 
-![img_4.png](pictures/img_4.png){ width="300" }
-
-3. Select the type of channel you'd like to create: text or voice, and provide it with a suitable name.
+3. Select the type of channel you wish to create: text or voice, and provide it with a suitable name.
 
 ![img_3.png](pictures/img_3.png){ width="300" }
 
-4. Select the privacy settings for the channel and then click  **“Create Channel”** to finish.
+4. Select the privacy settings for the channel and then click  **"Create Channel"** to finish.
 
 ## Delete channels
 
-You can also delete unwanted channels.
+Sometimes, you might need to tidy up your server space by removing channels that are no longer needed.
+For instance, if you have created a temporary channel for a group project,
+you can delete it once the project is completed to keep your server organized.
 
-1. Move the cursor to hover over the channel you want to delete, then click on the gear
-   icon ![setting.svg](pictures%2Fsetting.svg){ width="30" }
-   to open the channel settings.
+1. Hover over the channel you wish to delete and click on the gear icon
+   ![setting.svg](pictures%2Fsetting.svg){ width=" 20" }.
 
 ![img_6.png](pictures/img_6.png){ width="300" }
 
-2. Click **"Delete Channel ![dustbin.png](pictures%2Fdustbin.png){widith = "30"}"** on the left side in channel
-   settings.
+You will be redirected to channel settings.
+
+2. Click **"Delete Channel ![dustbin.png](pictures%2Fdustbin.png){widith = "15"}"** on the left column.
 
 ![deleteChannel.png](pictures%2FdeleteChannel.png){ width="600" }
 
@@ -63,21 +71,24 @@ You can also delete unwanted channels.
 
     Your channel will be permanently deleted. Proceed with caution.
 
-3. Confirm the deletion by clicking "Delete Channel" when the warning window appears, as your channel will be permanently
-   deleted.
+3. Confirm to delete by clicking "Delete Channel" when the warning window appears, as your channel will be
+   permanently deleted.
 
 ![confirmDelete.png](pictures%2FconfirmDelete.png){ width="300" }
 
 ## Inviting People to Your Server
 
-After setting up, it's time to grow your community by inviting others:
+After setup, you can expand your community by inviting your classmates and friends to join.
 
-1. Click the dropdown arrow next to your server name to open the dropdown menu. In the menu, click **"Invite
-   People ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} "** to invite people.
+1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to open the dropdown menu.
 
-![img_7.png](pictures/img_7.png){ width="300" }
+2. Click **"Invite People ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} "** in the dropdown menu to
+   invite friends.
 
-2. Choose your preferred method to send invites: either click the green **"Invite"** button or click **"Copy"** to copy the invitation link.
+![invitePeople.gif](pictures%2FinvitePeople.gif){ width="300" }
+
+3. Choose your preferred method to send invites: click **"Invite"** for individual invites
+   or click **"Copy"** to copy the link and share it via DM afterward.
 
 !!! Note
 

@@ -2,15 +2,15 @@
 
 ## Overview
 
-Enhance your server’s user engagement by creating customized emojis and stickers. This section will walk you through
-creating these elements and enabling others in your server to contribute as well.
+You can enhance user engagement in your server by creating personalized emojis and stickers.
+This section will walk you through the process of creating and empower others in your server to contribute. 
 
 ## Access Emoji and Sticker Management Panel
 
 Initially, navigate to the emoji and sticker management panel within Server Settings.
 
 1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to expand the dropdown menu and
-   select **"Server Settings"** ![setting.svg](pictures%2Fsetting.svg){ width="30" } from the menu.
+   select **"Server Settings ![setting.svg](pictures%2Fsetting.svg){ width="30" }"** from the dropdown menu.
 
 ![serverSettings.gif](pictures%2FserverSettings.gif){ width="300" }
 
@@ -20,8 +20,8 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 
 ## Add Emojis
 
-Before crafting custom emojis for your Discord server, remember these essentials:
-ensure dimensions are 128×128 pixels, file size doesn't surpass 256KB,
+Before making custom emojis for your Discord server, remember these essentials:
+image dimension is 128×128 pixels, file size doesn't surpass 256KB,
 and it's in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
 
 1. Navigate to **"Emoji"** tab, click **"Upload Emoji"**.

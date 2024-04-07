@@ -1,16 +1,15 @@
-# Start Activities With Friends
+# Start Activities with Friends
 
 ## Overview
 
-In this user guide, you will learn how to host group voice and video chats on Discord,
-specifically focusing on starting an activity to watch YouTube videos together.
-
-By the end of this guide, you'll be equipped with the knowledge to initiate and enjoy collaborative activities with your
+You can enhance your Discord experience by hosting group voice and video chats with friends. 
+In this section, you will learn how to start activities, such as watching YouTube videos together. 
+By the end, you will have the basic knowledge to initiate and enjoy collaborative activities with your
 friends on Discord.
 
 ## Host Group Voice & Video Chat
 
-1. Go to Discord's website and pick a server from the list on the left.
+1. Select a server from the list on the left column.
 
 ![download.png](pictures/2-1.png){ width="600" }
 
@@ -56,7 +55,7 @@ friends on Discord.
 
     Selected videos will automatically play upon selection, and multiple videos can be added to a playlist.
 
-3. Hover over the cursor on video window and click **"Expand Video"** for better viewing.
+3. Hover over on video window and click **"Expand Video"** for better viewing.
     
     Enjoy watching the video together with your friends!
 

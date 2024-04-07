@@ -4,7 +4,7 @@
 
 Welcome to our BCIT student community on Discord!
 Whether you're here to collaborate on projects, connect with classmates, complain about instructors(hopefully not), or
-simply unwind after a long day of studying,
+simply unwind after a long day of studying.
 Discord provides a platform for communication and collaboration.
 
 This user document is designed to help you navigate your way through the web version of Discord,
@@ -23,13 +23,13 @@ and wish to learn how to utilize its features for academic and social purposes.
 
 Before proceeding, ensure you have the following:
 
-- A Discord Account, if not [click here to go to create a Discord Account](https://discord.com/register)
+- A Discord Account, if not [click here](https://discord.com/register) to create a Discord Account.
 
 ## Procedures Overview
 
-1. Add Friends To Your Server: Learn how to create and customize your own Discord server.
+1. Add Friends to Your Server: Learn how to create and customize your own Discord server.
 
-2. Start Activities With Friends: Discover how to watch videos together and play games with your friends
+2. Start Activities with Friends: Discover how to watch videos together and play games with your friends
    using Discord's streaming feature.
 
 3. Make Customized Stickers and Emojis:
