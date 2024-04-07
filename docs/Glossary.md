@@ -7,6 +7,7 @@
 |                     | *Voice channels*: Specialized for voice or video call in real time, and sharing screen with friends - also known as *Go Live*.                                       | 
 | **Discord**         | Discord is a voice or text communication platform specializes in text, image, video, and audio communication                                                         |
 | **Emoji**           | Emojis are tiny pictures you can drop into your messages.                                                                                                            |
+| **Emoji Picker**    | A tool allowing users to select emojis for use in messages                                                                                                           |
 | **Nitro**           | Discord’s premium subscription service with features such as unlimited use of custom emojis, access to a library of games, and higher quality video streams          |
 | **Role**	           | A set of permissions or settings that can be applied to server members, often used to manage access or moderation capabilities.                                      |
 | **Server**          | Server is a chatroom with channels inside. You can create a server by tapping the + button on the left bar                                                           |
