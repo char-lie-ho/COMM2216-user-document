@@ -27,7 +27,8 @@ Before proceeding, ensure you have the following:
 
 ## Procedures Overview
 
-1. [Set Up Your Server](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet1/): Learn how to create and customize your own Discord server.
+1. [Set Up Your Server](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet1/): Learn how to create and
+   customize your own Discord server.
 
 2. [Start Activities with Friends](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet2/): Discover how
    to watch videos together and play games with your friends
@@ -36,8 +37,8 @@ Before proceeding, ensure you have the following:
 3. [Create Customized Stickers and Emojis](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet3/):
    Explore how to personalize your Discord experience by creating and using custom stickers and emojis.
 
-Now, let's get started by creating your Discord.🚀 [Click here to go to Discord](https://discord.com/channels/@me){:
-target="_blank"}
+Now, let's get started by creating your Discord.🚀
+[Click here to go to Discord](https://discord.com/channels/@me){:target="_blank"}
 
 ## Typographical Conventions
 
