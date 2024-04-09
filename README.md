@@ -24,20 +24,20 @@ Go to the deployed website: [User Document for Discord](https://char-lie-ho.gith
 
 ## What you will learn
 
-**Setting Up Your Server**
+- **Setting Up Your Server**
+
+    Step-by-step instructions on creating and customizing your Discord server.
 
 
-Step-by-step instructions on creating and customizing your Discord server.
+- **Streaming Videos with Friends**
 
-
-**Streaming Videos with Friends**
-
-A guide to how to use Discord's streaming features to watch videos and share content 
+    A guide to how to use Discord's streaming features to watch videos and share content 
 with your friends in real time.
 
-**Creating Customized Stickers and Emojis**
 
-A guide to enhancing your Discord community experience with customized stickers and emojis.
+- **Creating Customized Stickers and Emojis**
+
+    A guide to enhancing your Discord community experience with customized stickers and emojis.
 
 ## Technologies Used
 
@@ -63,8 +63,7 @@ MkDocs Material documentation. This ensures our documentation is automatically d
 up-to-date with simple `git commands`. 
 
 For a detailed setup guide, please refer to the [MkDocs Material 
- guidebook]
-(https://squidfunk.github.io/mkdocs-material/).
+ guidebook](https://squidfunk.github.io/mkdocs-material/).
 
 ## How to Contribute
 
