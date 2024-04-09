@@ -15,8 +15,8 @@ Go to the deployed website: [User Document for Discord](https://char-lie-ho.gith
 
 ## Table of Contents
 
-- [Technologies Used](#technologies-used)
 - [What you will learn](#what-you-will-learn)
+- [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
 
 
