@@ -1,7 +1,5 @@
 # Create Customized Emojis and Stickers
 
-## Overview
-
 You can enhance user engagement in your server by creating personalized emojis and stickers.
 This section will walk you through the process of creating and empower others in your server to contribute. 
 
@@ -40,9 +38,9 @@ Picker.
 When making Discord stickers, keep in mind: use _APNG_ or _GIF_ for animated ones; use _PNG_ for
 static ones, the max file size is 512KB, with dimensions of 320px x 320px. Let's create!
 
-1. Navigate to **"Stickers"** tab and click **"Upload Sticker"**
+1. Navigate to **"Stickers"** tab and click **"Upload Sticker"**.
 
-2. Choose a file from your computer by clicking the **"Browse"** button.
+2. Choose a file from your computer by clicking **"Browse"**.
 
 3. Name your sticker and choose a related emoji, then click **"Upload"**.
 
@@ -73,7 +71,7 @@ You can also allow friends to contribute their emojis and stickers with these st
 
 ![defaultPermission.png](pictures%2FdefaultPermission.png){ width="600" }
 
-2. Locate "Create Expressions" and activate it by switching the red cross mark "**x**" to green check mark"✔".
+2. Locate "Create Expressions" and activate it by switching the grey cross mark "**x**" to green check mark"✔".
 
 ![createExpression.png](pictures%2FcreateExpression.png){ width="600" }
 

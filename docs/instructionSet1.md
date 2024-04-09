@@ -1,6 +1,5 @@
 # Set Up Your Server
 
-## Overview
 
 You can learn how to create your first server and invite friends or classmates to join in this section.
 Establish a private space for discussions, collaborations, or social gatherings by setting up your server.
@@ -10,12 +9,11 @@ Establish a private space for discussions, collaborations, or social gatherings 
 To begin with, you need to decide on the server's template and purpose, then customize it according to your purpose and
 preferences. Here’s how you’ll set everything up:
 
-1. Click the green **"+"** button on the left column.
+1. Click the green **"+"** on the left column.
 
+    A new window will appear and give you several options, you can create your own template or use the pre-defined
+    templates.
 ![img.png](pictures/createServer.png){ width="600" }
-
-A new window will appear and give you several options, you can create your own template or use the pre-defined
-templates.
 
 2. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
    Group"**.

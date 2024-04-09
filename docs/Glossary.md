@@ -3,8 +3,8 @@
 | **Activity**	       | A shared interactive experience on Discord, such as watching videos or playing games together within a voice or video channel.                                       |
 | **Avatar**          | Discord avatar is a small graphical image, equivalent to a profile picture.                                                                                          | 
 | **Channel**         | Channels are organized into text and voice channels, which are usually dedicated to specific topics and can have different rules.                                    | 
-|                     | *Text channels*: Specialized for posting messages, upload files, and share images for others to see at any time.                                                     | 
-|                     | *Voice channels*: Specialized for voice or video call in real time, and sharing screen with friends - also known as *Go Live*.                                       | 
+|                     | Text channels: Specialized for posting messages, upload files, and share images for others to see at any time.                                                       | 
+|                     | Voice channels: Specialized for voice or video call in real time, and sharing screen with friends - also known as Go Live.                                           | 
 | **Discord**         | Discord is a voice or text communication platform specializes in text, image, video, and audio communication.                                                        |
 | **Emoji**           | Emojis are tiny pictures you can drop into your messages.                                                                                                            |
 | **Emoji Picker**    | A tool allowing users to select emojis for use in messages, usually located in bottom right corner.                                                                  |

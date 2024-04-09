@@ -1,6 +1,5 @@
 # Start Activities with Friends
 
-## Overview
 
 You can enhance your Discord experience by hosting group voice and video chats with friends. 
 In this section, you will learn how to start activities, such as watching YouTube videos together. 
