@@ -17,8 +17,6 @@ Go to the deployed website: [User Document for Discord](https://char-lie-ho.gith
 
 - [Technologies Used](#technologies-used)
 - [What you will learn](#what-you-will-learn)
-- [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
-- [How to Contribute](#how-to-contribute)
 - [Contributors](#contributors)
 
 
@@ -56,32 +54,6 @@ with your friends in real time.
     A theme for MkDocs, providing design and layout features.
 
 
-## Continuous Integration and Deployment (CI/CD)
-
-For the CI/CD process, this project follows the guidelines provided by the 
-MkDocs Material documentation. This ensures our documentation is automatically deployed to GitHub Pages, keeping it 
-up-to-date with simple `git commands`. 
-
-For a detailed setup guide, please refer to the [MkDocs Material 
- guidebook](https://squidfunk.github.io/mkdocs-material/).
-
-## How to Contribute
-
-We welcome contributions from other BCIT-COMM2216 teachers and students. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create your feature branch
-```git
-git checkout -b feature/newInstructionSet
-```
-3. Commit your changes.
-```git
-git commit -m 'Add some new Instruction Set'
-```
-4. Push to the branch.
-```git
-git push origin feature/newInstructionSet
-```
 
 ## Contributors
 
