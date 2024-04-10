@@ -42,47 +42,12 @@ After creating your own server, you need to create channels based on specific ne
 
 ![img_3.png](pictures/img_3.png){ width="300" }
 
-4. Select the privacy settings for the channel and then click  **"Create Channel"** to finish.
+!!! Note
 
-[//]: # (## Delete channels)
+    Toggle the privacy settings if needed you want to create a private channel.
 
-[//]: # ()
-[//]: # (Sometimes, you might need to tidy up your server space by removing channels that are no longer needed.)
+4. Click  **"Create Channel"** to finish.
 
-[//]: # (For instance, if you have created a temporary channel for a group project,)
-
-[//]: # (you can delete it once the project is completed to keep your server organized.)
-
-[//]: # ()
-[//]: # (1. Hover over the channel you wish to delete and click on the gear icon)
-
-[//]: # (   ![setting.svg]&#40;pictures%2Fsetting.svg&#41;{ width=" 20" }.)
-
-[//]: # ()
-[//]: # (![img_6.png]&#40;pictures/img_6.png&#41;{ width="300" })
-
-[//]: # ()
-[//]: # (You will be redirected to channel settings.)
-
-[//]: # ()
-[//]: # (2. Click **"Delete Channel ![dustbin.png]&#40;pictures%2Fdustbin.png&#41;{widith = "15"}"** on the left column.)
-
-[//]: # ()
-[//]: # (![deleteChannel.png]&#40;pictures%2FdeleteChannel.png&#41;{ width="600" })
-
-[//]: # ()
-[//]: # (!!! warning)
-
-[//]: # ()
-[//]: # (    Your channel will be permanently deleted. Proceed with caution.)
-
-[//]: # ()
-[//]: # (3. Confirm to delete by clicking "Delete Channel" when the warning window appears, as your channel will be)
-
-[//]: # (   permanently deleted.)
-
-[//]: # ()
-[//]: # (![confirmDelete.png]&#40;pictures%2FconfirmDelete.png&#41;{ width="300" })
 
 ## Invite People to Your Server
 
