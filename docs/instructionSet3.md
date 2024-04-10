@@ -3,6 +3,10 @@
 You can enhance user engagement in your server by creating personalized emojis and stickers.
 This section will walk you through the process of creating and empower others in your server to contribute. 
 
+!!! Note
+
+    Emojis are small icons for quick emotions. Stickers are large, detailed images for customized expression.
+
 ## Access Emoji and Sticker Management Panel
 
 Initially, navigate to the emoji and sticker management panel within Server Settings.
@@ -12,7 +16,7 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 
 ![serverSettings.gif](pictures%2FserverSettings.gif){ width="300" }
 
-2. Select **"Emoji"** or **"Stickers"** tab depending on what you want to manage on the left sidebar.
+2. Select **"Emoji"** tab to manage emojis. To create stickers instead, [click here](#add-stickers).
 
 ![emojisideBar.png](pictures%2FemojisideBar.png){ width="600" }
 
