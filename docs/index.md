@@ -43,9 +43,9 @@ Now, let's get started by creating your Discord server.
 
 ## Typographical Conventions
 
-* For indicating buttons on the page, we will use the format **"Button"**.
+* For indicating buttons on the page, we will use bold text enclosed in double quotation marks, for example: **"Button"**.
 
-* For indicating a file format, we will use the format _file_.
+* For indicating a file format, we will use italic text, for example: _file_.
 
 * For image annotation, the boxes denote the area to click, while the arrows indicate selections to make.
 
