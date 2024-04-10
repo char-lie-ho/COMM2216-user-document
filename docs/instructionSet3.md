@@ -30,7 +30,7 @@ and it is in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
 
 3. Hover over an emoji in the list and click on the textbox to edit its name.
 
-Customizing the emoji name allows you and your friends to easily type it out instead of selecting it from the Emoji
+    Customizing the emoji name allows you and your friends to easily type it out instead of selecting it from the Emoji
 Picker.
 
 ## Add Stickers

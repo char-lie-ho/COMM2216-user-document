@@ -1,7 +1,7 @@
 # Set Up Your Server
 
 
-You can learn how to create your first server and invite friends or classmates to join in this section.
+In this section, you can learn how to create your first server and invite friends or classmates to join.
 Establish a private space for discussions, collaborations, or social gatherings by setting up your server.
 
 ## Create Your New Server
@@ -11,22 +11,18 @@ preferences. Here’s how you’ll set everything up:
 
 1. Click the green **"+"** on the left column.
 
-    A new window will appear and give you several options, you can create your own template or use the pre-defined
-    templates.
 ![img.png](pictures/createServer.png){ width="600" }
 
-2. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
+2. In the pop-up window, you have several choices. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
    Group"**.
 
 ![img.png](pictures/img.png){ width="300" }
 
-3. Choose the purpose of the server.
-
-    The server can be for a small group of friends or a larger community. Skip this step if you are not sure for now.
+3. Choose the purpose of your server: for a small group of friends or a larger community. Skip this step if you are not sure for now.
 
 ![img_1.png](pictures/img_1.png){ width="300" }
 
-4. Name your server and upload a characteristic photo. Complete the process by clicking **“Create”**.
+4. Name your server and upload a characteristic photo, then complete the process by clicking **“Create”**.
 
 ![img_2.png](pictures/img_2.png){ width="300" }
 
@@ -104,7 +100,7 @@ After setup, you can expand your community by inviting your classmates and frien
 
 !!! Note
 
-    Using a link is typically more efficient when inviting multiple people.
+    Inviting multiple people is typically more efficient with a link.
 
 ![img_8.png](pictures/img_8.png){ width="300" }
 
@@ -121,3 +117,5 @@ In this section, you learned how to:
 - Invite friends or classmates to join your server
 
 You have taken the first step towards building your online community. Great work!
+
+Next Section: [Start Activities with Friends](instructionSet2.md)

@@ -80,3 +80,5 @@ Discord's features.
 
     You have mastered streaming videos with friends on Discord, 
     enhancing your group's online hangouts and creating memorable experiences together.
+
+Next Section: [Create Customized Stickers and Emojis](instructionSet3.md)

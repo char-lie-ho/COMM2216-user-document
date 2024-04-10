@@ -64,3 +64,5 @@ These blocks will help you notice warnings and notes easily.
 !!! Success
 
     Highlights the outcome after completing the instructions.
+
+Next Section: [Set Up Your Server](instructionSet1.md)
