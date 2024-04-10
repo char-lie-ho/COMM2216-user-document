@@ -1,16 +1,17 @@
-| **Terms**           | **Definition**                                                                                                                                                       | 
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Activity**	       | A shared interactive experience on Discord, such as watching videos or playing games together within a voice or video channel.                                       |
-| **Avatar**          | An avatar on Discord is a small graphical image that serves as a user's profile picture.                                                                             | 
-| **Channel**         | Channels are organized into text and voice channels, which are usually dedicated to specific topics and can have different rules.                                    | 
-|                     | Text channels: Specialized for posting messages, upload files, and share images for others to see at any time.                                                       | 
-|                     | Voice channels: Specialized for voice or video call in real time, and sharing screen with friends - also known as Go Live.                                           | 
-| **Discord**         | Discord is a voice or text communication platform specializes in text, image, video, and audio communication.                                                        |
-| **Emoji**           | Emojis are tiny pictures you can drop into your messages.                                                                                                            |
-| **Emoji Picker**    | "A tool that allows users to select emojis for use in messages, typically found in the bottom right corner in the message input area.                                |
-| **Nitro**           | Discord’s premium subscription service with features such as unlimited use of custom emojis, access to a library of games, and higher quality video streams.         |
-| **Role**	           | A set of permissions or settings that can be applied to server members, often used to manage access or moderation capabilities.                                      |
-| **Server**          | Server is a chatroom with channels inside. You can create a server by tapping the + button on the left bar.                                                          |
-| **Server Template** | Pre-defined settings and structures provided by Discord to simplify the creation of new servers, tailored for specific purposes like gaming, study groups, or clubs. |
-| **Sticker**         | Stickers are pictures that can be used in a text channel or voice channel. They appear similarly to emojis but are larger and cannot be interacted with.             | 
-| **Sticker Picker**  | A tool that allows users to select stickers for use in messages, typically found in the bottom right corner in the message input area.                               |
+| **Terms**               | **Definition**                                                                                                                                                       | 
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Activity**	           | A shared interactive experience on Discord, such as watching videos or playing games together within a voice or video channel.                                       |
+| **Avatar**              | An avatar on Discord is a small graphical image that serves as a user's profile picture.                                                                             | 
+| **Channel**             | Channels are organized into text and voice channels, which are usually dedicated to specific topics and can have different rules.                                    | 
+|                         | Text channels: Specialized for posting messages, upload files, and share images for others to see at any time.                                                       | 
+|                         | Voice channels: Specialized for voice or video call in real time, and sharing screen with friends - also known as Go Live.                                           | 
+| **Discord**             | Discord is a voice or text communication platform specializes in text, image, video, and audio communication.                                                        |
+| **Direct Message (DM)** | Direct message is sent directly from the sender to the recipient, not connected to any channel or server.                                                            |
+| **Emoji**               | Emojis are tiny pictures you can drop into your messages.                                                                                                            |
+| **Emoji Picker**        | "A tool that allows users to select emojis for use in messages, typically found in the bottom right corner in the message input area.                                |
+| **Nitro**               | Discord’s premium subscription service with features such as unlimited use of custom emojis, access to a library of games, and higher quality video streams.         |
+| **Role**	               | A set of permissions or settings that can be applied to server members, often used to manage access or moderation capabilities.                                      |
+| **Server**              | Server is a chatroom with channels inside. You can create a server by tapping the + button on the left bar.                                                          |
+| **Server Template**     | Pre-defined settings and structures provided by Discord to simplify the creation of new servers, tailored for specific purposes like gaming, study groups, or clubs. |
+| **Sticker**             | Stickers are pictures that can be used in a text channel or voice channel. They appear similarly to emojis but are larger and cannot be interacted with.             | 
+| **Sticker Picker**      | A tool that allows users to select stickers for use in messages, typically found in the bottom right corner in the message input area.                               |
