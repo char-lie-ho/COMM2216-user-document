@@ -18,9 +18,8 @@ Initially, navigate to the emoji and sticker management panel within Server Sett
 
 ## Add Emojis
 
-Before making custom emojis for your Discord server, remember these essentials:
-image dimension is 128×128 pixels, file size does not exceed 256KB,
-and it is in _JPEG_, _PNG_, or _GIF_ format. Now, let's begin.
+Before creating custom emojis for your Discord server, remember to use _JPEG_, _PNG_, or _GIF_ format for images.
+The maximum file size is 256KB, with dimensions of 128×128 pixels. Now, let's begin.
 
 1. Navigate to **"Emoji"** tab, click **"Upload Emoji"**.
 
@@ -35,8 +34,8 @@ Picker.
 
 ## Add Stickers
 
-When making Discord stickers, keep in mind: use _APNG_ or _GIF_ for animated ones; use _PNG_ for
-static ones, the max file size is 512KB, with dimensions of 320px x 320px. Let's create!
+When creating Discord stickers, remember to use _APNG_ or _GIF_ for animated ones; use _PNG_ for
+static ones. The maximum file size is 512KB, with dimensions of 320px x 320px. Let's create!
 
 1. Navigate to **"Stickers"** tab and click **"Upload Sticker"**.
 
@@ -51,7 +50,7 @@ static ones, the max file size is 512KB, with dimensions of 320px x 320px. Let's
 Using emojis or stickers in your message is easy! Just hover your mouse over the greyed-out Emoji Picker button
 or the Sticker Picker button to the right of your message input area.
 
-1. Click the emoji or sticker icon in the message input area.
+1. Click the Emoji Picker button or Sticker Picker button in the message input area.
 
 ![textInput.png](pictures%2FtextInput.png){ width="500" }
 
@@ -65,7 +64,7 @@ or the Sticker Picker button to the right of your message input area.
 
 ## Enable Collaborative Creation
 
-You can also allow friends to contribute their emojis and stickers with these steps.
+You can also enable friends to contribute their emojis and stickers with the following steps.
 
 1. Go to Server Settings panel, select **"Roles"** tab, then click on the **"Default Permissions"**.
 
