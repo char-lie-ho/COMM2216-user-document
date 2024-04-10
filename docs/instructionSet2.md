@@ -21,14 +21,14 @@ friends on Discord.
     
     You will be connected with voice by default.
 
-![2-2-1.png](pictures/2-2-1.png){ width="300" }
+![2-2-1.png](pictures/2-2-1.png){ width="200" }
 
 3. Start talking and adjust your microphone and camera settings if needed.
     
     To turn your camera on or off, click the camera icon ![camera.png](pictures%2Fcamera.png){ width="20" }.
     To mute or unmute your microphone, click the microphone icon ![microphone.png](pictures%2Fmicrophone.png){ width="15" }.
 
-![voice.png](pictures%2Fvoice.png){ width="300" }
+![voice.png](pictures%2Fvoice.png){ width="200" }
 
 
 !!! Note
@@ -41,39 +41,38 @@ friends on Discord.
 
 ![4-1.png](pictures/4-1.png){ width="500" }
 
+2. Right-click on the channel, and select **"Invite People"** to invite friends to join.
+
+![InvitePeople.png](pictures%2FInvitePeople.png){ width="200" }
+
+## Stream Video
+
+1. Select **"YouTube"** from the activity list and wait for it to load.
+
 2. Allow any on any pop-up windows if prompted by clicking **"Authorize"**, then **"Got It"**.
 
 ![5-1.png](pictures/5-1.png){ width="250" }
 ![5-2.png](pictures/5-2.png){ width="250" }
 
 
-!!! Note
-
-    You can right-click on the channel, and select "Invite People" to invite friends to join.
-
-## Stream Video
-
-1. Select **"YouTube"** from the activity list and wait for it to load.
-
-
-2. Select a video to watch with your friends and click to add it to the playlist.
+3. Select a video to watch with your friends and click to add it to the playlist.
 
 !!! Note
 
     Selected videos will automatically play upon selection, and multiple videos can be added to a playlist.
 
-3. Hover over on video window and click **"Expand Video"** for better viewing.
+4. Hover over on video window and click **"Expand Video"** for better viewing.
     
     Enjoy watching the video together with your friends!
 
 
-4. Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start
+5. Click on the red door icon ![9-1.png](pictures/9-1.png){ width="35" } when done to exit the activity or start
    another videos or wish to start another activity. 
     
     You will return to the voice chat interface.
 
 
-5. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
+6. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
 
 ![10-2.png](pictures/10-2.png){ width="500" }
 

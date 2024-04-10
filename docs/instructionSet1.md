@@ -16,15 +16,15 @@ preferences. Here’s how you’ll set everything up:
 2. In the pop-up window, you have several choices. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
    Group"**.
 
-![img.png](pictures/img.png){ width="300" }
+![img.png](pictures/img.png){ width="250" }
 
 3. Choose the purpose of your server: for a small group of friends or a larger community. Skip this step if you are not sure for now.
 
-![img_1.png](pictures/img_1.png){ width="300" }
+![img_1.png](pictures/img_1.png){ width="250" }
 
 4. Name your server and upload a characteristic photo, then complete the process by clicking **“Create”**.
 
-![img_2.png](pictures/img_2.png){ width="300" }
+![img_2.png](pictures/img_2.png){ width="250" }
 
 ## Create Channels: Voice or Text
 
@@ -36,11 +36,11 @@ After creating your own server, you need to create channels based on specific ne
 2. Click **"Create Channel ![addCircle.png](pictures%2FaddCircle.png){ width ="15" } "**  in the dropdown menu to create
    channel.
 
-![createChannel.gif](pictures%2FcreateChannel.gif){ width="300" }
+![createChannel.gif](pictures%2FcreateChannel.gif){ width="250" }
 
 3. Select the type of channel you wish to create: text or voice, and provide it with a suitable name.
 
-![img_3.png](pictures/img_3.png){ width="300" }
+![img_3.png](pictures/img_3.png){ width="250" }
 
 !!! Note
 
@@ -55,10 +55,9 @@ After setup, you can expand your community by inviting your classmates and frien
 
 1. Click the downward arrow ![downward.png](pictures%2Fdownward.png){ width="30" } to open the dropdown menu.
 
-2. Click **"Invite People ![invitePeople.png](pictures%2FinvitePeople.png){widith = "30"} "** in the dropdown menu to
-   invite friends.
+2. Click **"Invite People "** in the dropdown menu to invite friends.
 
-![invitePeople.gif](pictures%2FinvitePeople.gif){ width="300" }
+![invitePeople.gif](pictures%2FinvitePeople.gif){ width="250" }
 
 3. Choose your preferred method to send invites: click **"Invite"** for individual invites
    or click **"Copy"** to copy the link and share it via DM afterward.
