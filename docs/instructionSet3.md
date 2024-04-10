@@ -70,7 +70,7 @@ You can also enable friends to contribute their emojis and stickers with the fol
 
 ![defaultPermission.png](pictures%2FdefaultPermission.png){ width="600" }
 
-2. Locate "Create Expressions" and activate it by switching the grey cross mark "**x**" to green check mark"✔".
+2. Find "Create Expressions" and enable it by toggling the grey cross mark "**x**" to green check mark"✔".
 
 ![createExpression.png](pictures%2FcreateExpression.png){ width="600" }
 
