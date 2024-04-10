@@ -21,23 +21,24 @@ and wish to learn how to utilize its features for academic and social purposes.
 
 ## Prerequisite
 
-Before proceeding, ensure you have the following:
+Before proceeding, please ensure you have a Discord Account. 
+If not, you can create one by [clicking here](https://discord.com/register).
 
-- A Discord Account, if not [click here](https://discord.com/register) to create a Discord Account.
+No prior knowledge is required for this guide.
 
 ## Procedures Overview
 
-1. [Set Up Your Server](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet1/): Learn how to create and
+1. [Set Up Your Server](instructionSet1.md): Learn how to create and
    customize your own Discord server.
 
-2. [Start Activities with Friends](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet2/): Discover how
+2. [Start Activities with Friends](instructionSet2.md): Discover how
    to watch videos together and play games with your friends
    using Discord's streaming feature.
 
-3. [Create Customized Stickers and Emojis](https://char-lie-ho.github.io/COMM2216-user-document/instructionSet3/):
+3. [Create Customized Stickers and Emojis](instructionSet3.md):
    Explore how to personalize your Discord experience by creating and using custom stickers and emojis.
 
-Now, let's get started by creating your Discord.🚀
+Now, let's get started by creating your Discord server.
 [Click here to go to Discord](https://discord.com/channels/@me){:target="_blank"}
 
 ## Typographical Conventions
@@ -46,7 +47,7 @@ Now, let's get started by creating your Discord.🚀
 
 * For indicating a file format, we will use the format _file_.
 
-* In images, red boxes denote areas to click, while arrows indicate selections to make.
+* For image annotation, the boxes denote the area to click, while the arrows indicate selections to make.
 
 ## Notes and Messages
 

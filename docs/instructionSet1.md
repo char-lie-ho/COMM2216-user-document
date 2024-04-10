@@ -110,8 +110,8 @@ After setup, you can expand your community by inviting your classmates and frien
     Congratulations on creating your private digital space!
 
 ## Conclusion
-
-In this section, you learned how to:
+Good job! Your server is ready and members have joined. You can now chat and plan activities with your friends.
+Welcome to Discord's vibrant community! In this section, you learned how to:
 
 - Create a server tailored to your needs
 - Invite friends or classmates to join your server
