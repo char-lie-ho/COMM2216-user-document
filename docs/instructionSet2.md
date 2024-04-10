@@ -2,7 +2,7 @@
 
 
 You can enhance your Discord experience by hosting group voice and video chats with friends. 
-In this section, you will learn how to start activities, such as watching YouTube videos together. 
+In this section, you will learn how to start group activities, such as watching YouTube videos together. 
 By the end, you will have the basic knowledge to initiate and enjoy collaborative activities with your
 friends on Discord.
 
@@ -10,7 +10,7 @@ friends on Discord.
 
 1. Select a server from the list on the left column.
 
-![download.png](pictures/2-1.png){ width="600" }
+![download.png](pictures/2-1.png){ width="500" }
 
 !!! Note
 
@@ -18,10 +18,18 @@ friends on Discord.
 
 2. Select a channel with the microphone icon ![2-2.png](pictures/2-2.png){ width="15" } , click on the name of the
    channel to join a voice chat.
+    
+    You will be connected with voice by default.
 
 ![2-2-1.png](pictures/2-2-1.png){ width="300" }
 
-3. Start talking and adjust your microphone and camera settings if needed. 
+3. Start talking and adjust your microphone and camera settings if needed.
+    
+    To turn your camera on or off, click the camera icon ![camera.png](pictures%2Fcamera.png){ width="20" }.
+    To mute or unmute your microphone, click the microphone icon ![microphone.png](pictures%2Fmicrophone.png){ width="15" }.
+
+![voice.png](pictures%2Fvoice.png){ width="300" }
+
 
 !!! Note
 
@@ -31,12 +39,12 @@ friends on Discord.
 
 1. Click the rocket icon on your server tab or main chat screen to begin an activity.
 
-![4-1.png](pictures/4-1.png){ width="600" }
+![4-1.png](pictures/4-1.png){ width="500" }
 
 2. Allow any on any pop-up windows if prompted by clicking **"Authorize"**, then **"Got It"**.
 
-![5-1.png](pictures/5-1.png){ width="300" }
-![5-2.png](pictures/5-2.png){ width="300" }
+![5-1.png](pictures/5-1.png){ width="250" }
+![5-2.png](pictures/5-2.png){ width="250" }
 
 
 !!! Note
@@ -67,7 +75,7 @@ friends on Discord.
 
 5. Click the phone icon ![10-1.png](pictures/10-1.png){ width="25" } to leave the voice channel.
 
-![10-2.png](pictures/10-2.png){ width="600" }
+![10-2.png](pictures/10-2.png){ width="500" }
 
 ## Conclusion
 

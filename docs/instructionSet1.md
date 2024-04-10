@@ -11,7 +11,7 @@ preferences. Here’s how you’ll set everything up:
 
 1. Click the green **"+"** on the left column.
 
-![img.png](pictures/createServer.png){ width="600" }
+![img.png](pictures/createServer.png){ width="400" }
 
 2. In the pop-up window, you have several choices. Click **"Create My Own"** or select a pre-defined Discord template, **"Gaming"**, **"School Club"**, or **"Study
    Group"**.
