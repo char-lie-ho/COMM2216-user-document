@@ -3,9 +3,7 @@
 You can enhance user engagement in your server by creating personalized emojis and stickers.
 This section will walk you through the process of creating and empower others in your server to contribute. 
 
-!!! Note
-
-    Emojis are small icons for quick emotions. Stickers are large, detailed images for customized expression.
+Emojis are small icons for quick emotions. Stickers are large, detailed images for customized expression.
 
 ## Access Emoji and Sticker Management Panel
 
@@ -79,6 +77,8 @@ You can also enable friends to contribute their emojis and stickers with the fol
 ![createExpression.png](pictures%2FcreateExpression.png){ width="600" }
 
 3. Click **"Save Changes"** before exiting to save your updates.
+
+    If no changes were made, the **"Save Changes"** option will not appear, and no action is needed.
 
 !!! success
 
